@@ -13,7 +13,7 @@ Detail-oriented and innovative computer science undergraduate passionate about A
 ---
 
 ## Education
-- **VIT Bhopal University, B.Tech**  
+- **VIT Bhopal University, B.Tech in CSE with specialization in Health Informatics**  
   *CGPA:* 8.67
 - **Delhi Public School, Ruby Park, Class 12 (CBSE)**  
   *Score:* 86%
@@ -63,4 +63,4 @@ Offered placement after securing 4th place in Buildathon 2024. Worked on agile-b
 
 ## Achievements
 - **4th Place** in Buildathon 2024 at VIT Bhopal (offered placement with PreProdCorp)
-- **6th Place** among 500+ teams in a Johns Hopkins University Hackathon with the VIT Bhopal team
+- **6th Place** among 500+ teams in a Johns Hopkins University HealthHack organised in association with VIT Bhopal
